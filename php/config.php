@@ -1,5 +1,5 @@
 <?php
-$Url='http://localhost/Projects/QYZ%20-%20V3/';
+$Url='';
 $Server='localhost';
 $DbUserName='root';
 $DbPassword='';
