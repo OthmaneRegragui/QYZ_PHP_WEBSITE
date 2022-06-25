@@ -1,0 +1,102 @@
+body{
+    color: #e5e1ca !important;
+    display: flex;
+    min-height: 100vh;
+    background-image: linear-gradient(to right top, #f7ecde, #e5e1ca, #cdd8ba, #aed0b1, #8bc7b0, #70b9ae, #56aaac, #419baa, #3c849a, #3b6d87, #395771, #354259);
+}
+
+#ModalCreateGroup {
+    color: #354259;
+}
+#ModalAddGroup {
+    color: #354259;
+}
+
+.Style {
+    margin-top: 1rem;
+
+}
+
+.Style.btn {
+    color: #e5e1ca !important;
+    font-size: 1.6rem;
+}
+
+#nav {
+    
+    background-color: transparent !important;
+    font-size:1.5rem;
+}
+
+.nav-link{
+    color: #e5e1ca !important;
+}
+.navbar-brand {
+    color: #e5e1ca !important;
+}
+
+
+
+#TextHello{
+    color: #e5e1ca;
+}
+
+.list-Search {
+    float: left;
+}
+
+.SearchBtnSend {
+    margin-left: 70%;
+}
+
+#SelectSeachBy {
+    margin-left: 2rem;
+    width: 10rem;
+}
+
+.BoxOfGroups{
+    border-color: #354259 !important;
+    width: auto;
+    margin-top: 4%;
+    height: 30rem;
+    padding: 1rem;
+    -ms-overflow-style: none;
+    /* for Internet Explorer, Edge */
+    scrollbar-width: none;
+    /* for Firefox */
+    overflow-y: scroll;
+}
+
+.BoxOfGroups::-webkit-scrollbar {
+    display: none;
+    /* for Chrome, Safari, and Opera */
+}
+
+.card {
+    height: 15rem;
+    width :15rem;
+    max-width: 18rem;
+    float: left;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+.BoxOfPosts{
+    padding-left: 6.5rem;
+}
+.BoxOfPosts a{
+    color: #e5e1ca;
+    text-decoration: inherit;
+}
+.GroupPosts{
+    margin-bottom: 1rem;
+    background-color: #354259;
+    float: left;
+}
+.cardDate{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+.cardText{
+    text-align: center;
+    font-size: 13px;
+}
